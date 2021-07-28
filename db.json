@@ -1,0 +1,39 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "content": "Trabajar",
+      "isImportant": false
+    },
+    {
+      "id": 2,
+      "content": "Estudiar",
+      "isImportant": true
+    },
+    {
+      "id": 3,
+      "content": "Amar mucho",
+      "isImportant": true
+    },
+    {
+      "content": "tos",
+      "important": false,
+      "id": 4
+    },
+    {
+      "content": "Tareas",
+      "important": false,
+      "id": 5
+    },
+    {
+      "content": "Dormir bien",
+      "important": false,
+      "id": 6
+    },
+    {
+      "content": "Luchar",
+      "important": false,
+      "id": 7
+    }
+  ]
+}
